@@ -1,0 +1,4 @@
+Urrumem o código
+
+<meta http-equiv="Content-Type" content="text/html; charset-utf-8"/>   não é menos é igual
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> este é o código correto

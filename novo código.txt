@@ -1,0 +1,64 @@
+#menu_pesquisa{
+background: #EFEFEF;
+width: 200px;
+height: 300px;
+color: #833a4d;
+font-family: arial;
+font-size: 20px;
+margin-left: 20px;
+margin-top: 10px;
+float: left;
+-moz-box-shadow: 0 0 15px black;
+-webkit-box-shadow: 0 0 15px black;
+box-shadow: 0 0 15px black;
+padding: 10px;
+text-align: center;
+}
+
+<p><form id="form1" name="form1" method="post" action="">
+<label>
+<input type="radio" name="compra_venda" value="Comprar"/>Comprar</label>
+
+<select name="tipo" class="sel">
+<option>Tipo</option>
+<option>Casa</option>
+<option>AP</option>
+<option>Terreno</option>
+</select></br>
+
+<select name="quartos" class="sel">
+<option>Quartos</option>
+<option>1</option>
+<option>2</option>
+<option>3</option>
+</select></br>
+
+<select name="area" class="sel">
+<option>Area M²</option>
+<option>5</option>
+<option>10</option>
+<option>100</option>
+</select></br>
+
+<select name="preco" class="sel">
+<option>Preço</option>
+<option>Ate 100.000</option>
+<option>De 100.000 a 150.000</option>
+<option>De 200.000 a 250.000</option>
+</select></br>
+
+<select name="localizacao" class="sel">
+<option>Localização</option>
+<option>xxxxxx</option>
+<option>xxxxxxxxxx</option>
+<option>xxxxxxxx</option>
+</select></br>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,142 @@
+#top{
+width:1000px;
+height:100px;
+margin:auto;
+}
+
+#logo{
+width:200px;
+height:100px;
+float: left;
+font-family: arial;
+font-size: 76px;
+}
+
+#logo_tel{
+width:410px;
+height:100px;
+float: right;
+font-family: arial;
+font-size: 16px;
+color: #FAFA06;
+text-align:right;
+}
+
+#cont{
+background: #FFF;
+width:1000px;
+height:auto;
+margin:auto;
+-moz-box-shadow: 0 0 20px black;
+-webkit-box-shadow: 0 0 20 px black;
+box-shadow:0 0 20px black;
+float: left;
+}
+
+#menu{
+background: #833a4d;
+width:1000px;
+height:40px;
+}
+
+#banner{
+width:1000px;
+height:250px;
+}
+
+#menu_pesquisa{
+background: #EFEFEF;
+width: 200px;
+height: 300px;
+color: #833a4d;
+font-family: arial;
+font-size: 20px;
+margin-left: 20px;
+margin-top: 25px;
+float: left;
+-moz-box-shadow: 0 0 15px black;
+-webkit-box-shadow: 0 0 15px black;
+box-shadow: 0 0 15px black;
+padding: 10px;
+text-align: center;	
+}
+
+.sel{
+width: 150px;
+height: 25px;
+color: #833a4d;
+font-family: arial;
+font-weight: bold;	
+}
+
+#contout{
+width: 750px;
+height: auto;
+margin-left: 250px;	
+}
+
+#cont2{
+width: 750px;
+height: auto;
+float: left;	
+}
+
+#titulo_gal{
+width: 715px;
+height: 30px;
+color: #833a4d;
+font-family: arial;
+font-size: 20px;
+margin-left: 20px;
+margin-top: 20px;
+border-bottom: 2px solid #833a4d;	
+}
+
+#cont3{
+width: 160px;
+height:250px;
+margin-left: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+float: left;
+border: 2px solid #833a4d;	
+}
+
+#foto_im{
+width: 160px;
+height: 160px;
+border-bottom: 2px solid #833a4d;
+}
+
+#text{
+width: 150px;
+height: 77px;
+color: black;
+font-family: arial;
+font-size: 11px;
+padding: 5px;
+}
+
+#rodape{
+width:100%;
+height: 25px;
+float:left;
+margin-top:50px;
+border-bottom: 2px solid #833a4d;
+}
+
+#rodad{
+width:1000px;
+height:45px;
+margin:auto;
+font-family:arial;
+font-size:16px;
+}
+
+
+
+
+
+
+
+
